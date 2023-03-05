@@ -4,7 +4,7 @@
   [![Instagram Follow](https://img.shields.io/badge/-Instagram-FF1494)](https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=)
 
 
-  <h2 align="center">Photographer Portfolio website</h2>
+  <h2 align="center">Simple Clock</h2>
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
